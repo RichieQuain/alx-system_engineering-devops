@@ -1,1 +1,2 @@
 printf %xn $DECIMAL
+echo printf %xn $DECIMAL
